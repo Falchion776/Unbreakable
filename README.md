@@ -13,4 +13,4 @@ Once you have all the pieces do the following:
 1. Open NUPS
 2. Select your clean Sacred Stones ROM as the "File to Patch"
 3. Select Unbrealable.ups as the "UPS patch"
-4. Hit Patch and you'll be able to play the Unbreakable ROM hack on the GBA emulator of your choice
+4. Hit "Patch" and you'll be able to play the Unbreakable ROM hack on the GBA emulator of your choice
